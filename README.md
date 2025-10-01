@@ -1,4 +1,4 @@
-# Jazzy Robot State LED Controller
+# Robot State LED Controller
 
 This repository provides visual feedback for robot system states using four WS2812B LED strips (8 LEDs each), controlled by an STM32F103 (Blue Pill) and ROS2 Python scripts. The project includes state-based LED animations and a serial bridge for ROS2 integration.
 
